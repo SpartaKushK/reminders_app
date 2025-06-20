@@ -1,0 +1,5 @@
+pandas
+google-generativeai
+tenacity
+tkinter
+python-dotenv
